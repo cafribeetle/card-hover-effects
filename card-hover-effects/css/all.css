@@ -699,7 +699,7 @@ readers do not read off random characters that represent icons */
 
 .fa-calculator:before {
   content: "\f1ec"; }
-
+---------------------------------
 .fa-calendar:before {
   content: "\f133"; }
 
